@@ -1,0 +1,9 @@
+body{
+    height: 700px;
+    background-image: url(./assets/body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#list:hover{
+    border: 2px solid orange;
+}
